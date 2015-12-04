@@ -1,4 +1,4 @@
-package v001
+package helloworld
 
 /**
  * @author <a href="mailto:M.Lang@Reply.de">m.lang</a>
